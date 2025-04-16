@@ -1,6 +1,6 @@
 # 📊 Airbnb Washington DC – 2016 Analysis (Tableau Project)
 
-![Dashboard Overview](./screenshots/TableauAirbnb.jpg) <!-- Replace with actual path if committing the image -->
+![Dashboard Overview](./TableauAirbnb.jpg) <!-- Replace with actual path if committing the image -->
 
 ## 🔍 Project Overview
 
