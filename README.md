@@ -61,15 +61,3 @@ The dashboard provides insights into:
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-📦 airbnb-washingtondc-2016
-├── 📊 Tableau Dashboard (twb/twbx)
-├── 📁 data/
-│   ├── listings.csv
-│   ├── calendar.csv
-│   ├── reviews.csv
-├── 📷 screenshots/
-│   └── dashboard-overview.png
-├── README.md
